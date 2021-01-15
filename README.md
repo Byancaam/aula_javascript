@@ -1,2 +1,5 @@
 # aula_javascript
-Curso Introdução ao Javascript - DIO
+
+##Curso Programação para internet com Javascript
+Nível Básico
+Oferecido por:  DIO (Digital Innovation One)
