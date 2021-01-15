@@ -8,10 +8,4 @@ Nível Básico
 
 Oferecido por:  DIO (Digital Innovation One)
 
-=======
-# aula_javascript
 
-##Curso Programação para internet com Javascript
-Nível Básico
-Oferecido por:  DIO (Digital Innovation One)
->>>>>>> 504bddc801a6fa5aa86690e91387bb6daf1869a9
